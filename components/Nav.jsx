@@ -68,7 +68,7 @@ export default function Nav() {
                   onClick={() => signIn(provider.id)}
                   className="black_btn"
                 >
-                  Sing In
+                  Log In
                 </button>
               ))}
           </>
